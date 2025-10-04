@@ -1,0 +1,22 @@
+Lagt til Score teller
+
+Endret farger på bagrunn med sjakkbrett effekt
+
+Slangen har fått hale som roterer basert på hvor neste del av slangen er
+
+tegnet epple som importeres fra github repo i start app (for å unngå treghet) og tegnes i generert posisjon
+
+tegnet og importert start screen med instruks om start av spillet
+
+hode som snur seg i riktig retning
+
+tegnet og importert kropp som svinger seg
+
+TO DO:
+Ny slange
+
+Fikse restart
+    Telling av high score?
+Settings på hastghet
+
+to endscreens
